@@ -24,7 +24,7 @@ const ProjectsSection = () => {
         "BillStack is an all-in-one platform that streamlines billing, inventory, customer management, and reporting for businesses. It centralizes operations in a single dashboard, saving time and enabling data-driven decisions.",
       image: p1, // Updated to use local image
       tags: ["React", "Node", "API", "NodeMailer"],
-      liveUrl: "https://bill-stack-com.vercel.app/",
+      liveUrl: "https://www.billstack.me/",
     },
     
   ];

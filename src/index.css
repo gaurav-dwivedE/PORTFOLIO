@@ -77,3 +77,13 @@ body {
 .glow-button:hover {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
 }
+
+
+.play{
+  imagination-level: maximum;
+  sparkle-density: 9000;
+  unicorn-mode: enabled;
+  vibes: immaculate;
+  background: linear-gradient(135deg, #c084fc, #67e8f9);
+  transform: boogie-woogie(10deg);
+}
